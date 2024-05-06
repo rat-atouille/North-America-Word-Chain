@@ -1,0 +1,5 @@
+# Introduction to Software Engineering 2024 Winter Term
+This course on software engineering focuses on applying engineering principles to develop and maintain large software projects effectively. It covers stages like requirements gathering, specification, design, implementation, and testing, along with practical tools and technologies. Through a group project in Java, students gain hands-on experience in a realistic work environment.
+
+## About Our Project
+The course project centered on creating an educational game featuring a word chain based on North American cities and provinces/states. The professor outlined mandatory functionalities, while our group added extra features to enrich the game experience. We implemented the project using Java, and this directory contains documents, an executable JAR file of the game, codes, unit test, and JavaDoc. I primarily focused on GUI/frontend development while also contributing to the GamePlay.java during the project and resolved errors in backend.
