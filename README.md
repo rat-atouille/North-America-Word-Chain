@@ -1,4 +1,4 @@
-# Introduction to Software Engineering 2024 Winter Term
+# Introduction to Software Engineering
 This course on software engineering focuses on applying engineering principles to develop and maintain large software projects effectively. It covers stages like requirements gathering, specification, design, implementation, and testing, along with practical tools and technologies. Through a group project in Java, students gain hands-on experience in a realistic work environment.
 
 ## About Our Project
