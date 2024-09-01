@@ -1,6 +1,3 @@
-# Introduction to Software Engineering
-This course on software engineering focuses on applying engineering principles to develop and maintain large software projects effectively. It covers stages like requirements gathering, specification, design, implementation, and testing, along with practical tools and technologies. Through a group project in Java, students gain hands-on experience in a realistic work environment.
-
 ## About Our Project
 Our course project entailed developing an educational game centered on a word chain featuring North American cities and provinces/states. Initially, the professor outlined mandatory functionalities, which we augmented with additional features to enrich the gameplay, as documented in our Requirement Documentation. Leveraging Java, we implemented the project, providing comprehensive documentation, an executable JAR file, source code, unit tests, and JavaDoc. 
 
