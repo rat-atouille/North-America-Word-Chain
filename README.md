@@ -1,5 +1,5 @@
 ## About Our Project
-The Word Chain Geography Game is a software application designed to enhance users' knowledge of North America’s states and their capital cities through an engaging word chain game. Players are required to form chains of words where each word begins with the last letter of the previous word, using only the names of North America's states/provinces and their corresponding capital cities.
+North America Word Chain is a software application designed to enhance users' knowledge of North America’s states and their capital cities through an engaging word chain game. Players are required to form chains of words where each word begins with the last letter of the previous word, using only the names of North America's states/provinces and their corresponding capital cities.
 
 ## About the development
 Our course project entailed developing an educational game centered on a word chain featuring North American cities and provinces/states. Initially, the professor outlined mandatory functionalities, which we augmented with additional features to enrich the gameplay, as documented in our Requirement Documentation. Leveraging Java, we implemented the project, providing comprehensive documentation, an executable JAR file, source code, unit tests, and JavaDoc. 
