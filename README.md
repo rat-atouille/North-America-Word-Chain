@@ -6,6 +6,9 @@ Our course project entailed developing an educational game centered on a word ch
 
 In our project, I took on the primary responsibility of GUI/frontend development and integration testing, striving to create an intuitive and visually appealing user experience. Additionally, I made substantial contributions to the backend, particularly in troubleshooting errors within the GamePlay.java module. Throughout our project, we followed Agile methodology, which enabled iterative development through weekly group meetings focused on tracking progress and managing tasks effectively.
 
+## Documentations
+See [here] (https://github.com/rat-atouille/North-America-Word-Chain/tree/main/Documentations)
+
 ## Required Libraries and Third-Party Tools
 JDK 22
 
@@ -20,3 +23,5 @@ To install the Word Chain Game, follow these steps:
   4) IMPORTANT: Make sure facts.csv and your WorldChain.JAR file is in the same folder! It will not load the data and you won't be able to play the
   game. If you want background music, make sure the WAV files are in the same directory as well.
   5) Type command: java -jar WorldChain.jar
+
+For more detailed README regarding the project and game play, see [here] (https://github.com/rat-atouille/North-America-Word-Chain/blob/main/Desktop/team2_project_Word_Chain/README.pdf)
